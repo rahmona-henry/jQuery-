@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rahmona-henry/jQuery-/issues"
   },
-  "homepage": "https://github.com/rahmona-henry/jQuery-#readme"
+  "homepage": "https://github.com/rahmona-henry/jQuery-#readme",
+  "dependencies": {
+    "browserify": "^13.1.0"
+  }
 }
